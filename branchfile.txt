@@ -1,1 +1,1 @@
-This is a new branch file
+This is content for the new branch
